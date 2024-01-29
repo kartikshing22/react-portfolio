@@ -1,0 +1,73 @@
+{
+    "basic_info": {
+      "name": "Kartikey Singh",
+      "titles": [ "Python Developer", "React Developer", "Full Stack Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/kartikshing22",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/kartik_k00l",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myprofileoriginal.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "95"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "95"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "95"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "95"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "95"
+        },
+        {
+          "name": "GIT",
+          "class": "devicon-github-original",
+          "level": "95"
+        },
+        {
+          "name": "Angular",
+          "class": "devicon-angularjs-plain",
+          "level": "80"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "95"
+        }
+      ]
+    }
+  }

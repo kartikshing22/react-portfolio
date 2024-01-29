@@ -1,0 +1,159 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋I am Kartikey, a Experienced software engineer with a demonstrated history of working in Python and Django with 3 years of experience. skilled in Web development and supply chain management in a start-up. along with python, Django, JavaScript, React, Angular, PostreSQL, GIT, AWS . Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Animal Adoption and ecommerce",
+        "startDate": "2020",
+        "description": "Personal project for study subject, made for Listing Dogs for adoption also included a ecommerce section for Dogs Accessories. Built a Strong authentication system. only authenticated person can list there pets Project id dinamic and we can control verything from backend, User can register them ann list there dogs, shop items from shop section and track there order. website is fully built in Django and used Bootstrap for beautifull UI.",
+        "images": [
+          "projects/Dog Adoption/main_dog.png",
+          "projects/Dog Adoption/details_dog.png",
+          "projects/Dog Adoption/shopping.png",
+          "projects/Dog Adoption/showcase_gods.png",
+          "projects/Dog Adoption/cart.png"
+        ],
+        "url": "https://github.com/kartikshing22/Dog-Adoption",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "Carzone",
+        "startDate": "2020",
+        "description": "I developed a dynamic Django project, embodying HTML and Bootstrap templates. Tailoring the Django admin panel enhanced its functionality. The project employed a PostgreSQL database and was subsequently deployed on a production server. This encompassed the creation of multiple Django apps, managed through Git version control. The customization of Django admin, along with adept database schema design, models, and migrations, ensured seamless user experiences. Implementing search functionality enriched user interactions. Robust user authentication mechanisms were implemented, including options for Facebook and Google login. Lastly, email communication was integrated, completing the project's comprehensive features and functionalities :)",
+        "images": [
+          "projects/carzone/main.png",
+          "projects/carzone/show.png",
+          "projects/carzone/filters.png",
+          "projects/carzone/login.png",
+          "projects/carzone/register.png"
+        ],
+        "url": "https://github.com/kartikshing22/carzone",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "Scraping",
+        "startDate": "2021",
+        "description": "I built 40+ scrapers using Scrapy Framework of python and scraped Big Ecommerce websites as well like Amazon And Flipcar.",
+        "images": [
+          "projects/scraping.png",
+          "projects/scraping.png"
+        ],
+        "url": "https://github.com/kartikshing22/scrapy-on-televison",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Sinaxis Enterprises",
+        "title": "Python Developer",
+        "years": "June 2023 - present",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "Django",
+          "Angular",
+          "REST API",
+          "JavaScript",
+          "Rest Framework",
+          "React",
+          "Docker",
+          "Linux",
+          "PostgreSQL",
+          "MySQL",
+          "Git",
+          "ORM",
+          "CSS"
+        ]
+      },
+      {
+        "company": "Sampark Software",
+        "title": "Python Developer",
+        "years": "Feb 2022 - Feb 2023",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "Django",
+          "Angular",
+          "REST API",
+          "JavaScript",
+          "Docker",
+          "AWS",
+          "Linux",
+          "Rest Framework",
+          "React",
+          "MySQL",
+          "ORM",
+          "PostgreSQL",
+          "Git",
+          "CSS"
+        ]
+      },
+      {
+        "company": "NerdyKeeda",
+        "title": "Python Developer",
+        "years": "Jan 2021 - Feb 2022",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "Django",
+          "REST API",
+          "Scrapy",
+          "AWS",
+          "Linux",
+          "Rest Framework",
+          "MySQL",
+          "Git"
+        ]
+      }
+    ]
+  }
