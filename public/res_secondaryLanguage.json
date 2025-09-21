@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋I am Kartikey, a Experienced software engineer with a demonstrated history of working in Python and Django with 3 years of experience. skilled in Web development and supply chain management in a start-up. along with python, Django, JavaScript, React, Angular, PostreSQL, GIT, AWS . Thank you 💜",
+    "description": "👋I am Kartikey, Results-oriented Software Engineer with 4+ years of experience specializing in Python, Django, and backend system optimization. Proven expertise in building automation tools, designing scalable APIs, and solving complex data problems across domains like real estate, healthcare, and logistics. Skilled in web scraping, large-scale data processing (1M+ pages daily), and integrating self-healing automation using Generative AI. Adept at troubleshooting performance bottlenecks, reducing execution times, and delivering end-to-end full-stack solutions with Django, React, PostgreSQL, and MongoDB. Strong problem solver with a track record of improving system reliability, reducing infrastructure costs, and translating business challenges into efficient technical solutions. Thank you 💜",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -91,9 +91,34 @@
   ],
   "experience": [
     {
+      "company": "University Living Accomodation",
+      "title": "Software Developer",
+      "years": "April 2024 - present",
+      "mainTech": [
+        "Python"
+      ],
+      "technologies": [
+        "Django",
+        "REST API",
+        "JavaScript",
+        "Rest Framework",
+        "React",
+        "Linux",
+        "PostgreSQL",
+        "MongoDB",
+        "Selenium",
+        "Automation",
+        "Generative AI",
+        "MySQL",
+        "Git",
+        "ORM",
+        "CSS"
+      ]
+    },
+    {
       "company": "Sinaxis Enterprises",
       "title": "Python Developer",
-      "years": "June 2023 - present",
+      "years": "June 2023 - April 2024",
       "mainTech": [
         "Python"
       ],
@@ -111,6 +136,25 @@
         "Git",
         "ORM",
         "CSS"
+      ]
+    },
+    {
+      "company": "Delhivery",
+      "title": "Support Engineer",
+      "years": "Feb 2023 - June 2023",
+      "mainTech": [
+        "Python"
+      ],
+      "technologies": [
+        "Django",
+        "React",
+        "REST API",
+        "JavaScript",
+        "Linux",
+        "Rest Framework",
+        "MySQL",
+        "ORM",
+        "PostgreSQL"
       ]
     },
     {
@@ -135,24 +179,6 @@
         "PostgreSQL",
         "Git",
         "CSS"
-      ]
-    },
-    {
-      "company": "NerdyKeeda",
-      "title": "Python Developer",
-      "years": "Jan 2021 - Feb 2022",
-      "mainTech": [
-        "Python"
-      ],
-      "technologies": [
-        "Django",
-        "REST API",
-        "Scrapy",
-        "AWS",
-        "Linux",
-        "Rest Framework",
-        "MySQL",
-        "Git"
       ]
     }
   ]
